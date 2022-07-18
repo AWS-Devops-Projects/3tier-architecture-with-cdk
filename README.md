@@ -1,8 +1,8 @@
 
-# Elastic, Secure, Highly available architecture using AWS CDK
+# three tier architecture with cdk
 
 This repo contains code for a three tier application consisting of web layer, app layer and data layer.
-The template is highly customizable with many features thanks to the CDK's flexibility, including custom IP's for the VPC and the optional provisioning of the database layer
+The template is highly customizable with many features thanks to the CDK's flexibility, including custom IP's for the VPC and the optional provisioning of the database layer. 
 
 ## Useful commands
 
